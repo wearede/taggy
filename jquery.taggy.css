@@ -1,5 +1,5 @@
 .taggy-wrapper {
-  position:relative;
+  position: relative;
 }
 
 .taggy-item {
@@ -15,5 +15,5 @@
   height: 8em;
   margin-top: -3.1em;
   margin-left: -3.1em;
-  box-shadow:0 0 0 10px rgba(247,149,75,.5),0 0 25px #000 inset;
+  box-shadow: 0 0 0 10px rgba(247,149,75,.5), 0 0 25px #000 inset;
 }
